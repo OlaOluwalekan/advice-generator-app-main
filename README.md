@@ -12,7 +12,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Joke](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
