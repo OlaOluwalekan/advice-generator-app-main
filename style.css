@@ -22,7 +22,8 @@
   background-color: var(--darkBlue);
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
+  padding-bottom: 10px;
 }
 
 .advice-container {
@@ -82,4 +83,21 @@
 
 .die-container:hover {
   box-shadow: 1px 1px 20px var(--neonGreen);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: var(--lightCyan);
+  text-shadow: 1px 1px 3px black;
+  font-weight: 900;
+}
+
+.attribution a {
+  color: var(--neonGreen);
+  text-decoration: none;
+}
+
+.attribution a:hover {
+  text-shadow: 1px 1px 5px var(--neonGreen);
 }
