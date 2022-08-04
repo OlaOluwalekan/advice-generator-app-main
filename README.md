@@ -48,8 +48,8 @@ Below are the screenshots of the result after completing the project
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/OlaOluwalekan/advice-generator-app-main)
-- Live Site URL: [Add live site URL here](https://advicemi.netlify.app/)
+- Solution URL: [GitHub Link](https://github.com/OlaOluwalekan/advice-generator-app-main)
+- Live Site URL: [View on Netlify](https://advicemi.netlify.app/)
 
 ## My process
 
@@ -59,7 +59,6 @@ Below are the screenshots of the result after completing the project
 - CSS custom properties
 - Flexbox
 - JavaScript (ES6)
-- Mobile-first workflow
 - [Advice Slip API](https://api.adviceslip.com) - Advice API
 
 ### What I learned
@@ -114,17 +113,17 @@ Working with API is still somehoe new to me and at present, I still have to make
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me whenever i need to make a quick reference to CSS styles and selectors.
-- [Example resource 2](https://youtube.com) - This is an amazing platform for me to watch videos of people who have built something cool with API. I'd recommend it to anyone still learning this concept.
+- [w3 Schools Website](https://www.w3schools.com/) - This helped me whenever i need to make a quick reference to CSS styles and selectors.
+- [Youtube Videos](https://youtube.com) - This is an amazing platform for me to watch videos of people who have built something cool with API. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
 - Website - [Olalekan Bello](https://www.your-site.com)
 - Frontend Mentor - [@OlaOluwalekan](https://www.frontendmentor.io/profile/OlaOluwalekan)
-- Twitter - [@OlaOluealekanMi](https://www.twitter.com/OlaOluealekanMi)
+- Twitter - [@OlaOluwalekanMi](https://www.twitter.com/OlaOluwalekanMi)
 
 ## Acknowledgments
 
-A big thumbs up 👍 to my virtual coding mentor, **John Smilga** [John Smilga](johnsmilga.com). Many helpful tips are from his tutorials videos. Thanks a bunch.
+A big thumbs up 👍 to my virtual coding mentor, **[John Smilga]**(johnsmilga.com). Many helpful tips are from his tutorials videos. Thanks a bunch.
 
 **It's fun building!** 🚀
