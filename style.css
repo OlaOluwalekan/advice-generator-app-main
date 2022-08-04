@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --darkBlue: hsl(218, 23%, 16%);
+  --darkGreyishBlue: hsl(217, 19%, 24%);
+  --darkerGreyishBlue: hsl(221, 29%, 11%);
+  --greyishBlue: hsl(217, 19%, 38%);
+  --neonGreen: hsl(150, 100%, 66%);
+  --lightCyan: hsl(193, 38%, 86%);
+  --dieWidth: 65px;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--darkBlue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.advice-container {
+  width: 90%;
+  height: fit-content;
+  background-color: var(--darkGreyishBlue);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Manrope", sans-serif;
+  border-radius: 15px;
+  position: absolute;
+  top: 25%;
+  max-width: 350px;
+  box-shadow: 8px 8px 40px var(--darkerGreyishBlue);
+}
+
+.advice-id {
+  text-transform: uppercase;
+  color: var(--neonGreen);
+  font-size: 11px;
+  font-weight: 100;
+  line-height: 50px;
+  letter-spacing: 5px;
+}
+
+.advice-text {
+  font-size: 24px;
+  text-align: center;
+  line-height: 35px;
+  margin: 10px 0;
+  color: var(--lightCyan);
+}
+
+.divider {
+  margin: 20px 0 50px 0;
+  width: 95%;
+}
+
+.die-container {
+  background-color: var(--neonGreen);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: var(--dieWidth);
+  height: var(--dieWidth);
+  border-radius: 50%;
+  position: absolute;
+  bottom: -32.5px;
+  transform: rotate(0deg);
+  transition: transform 1s ease;
+  cursor: pointer;
+  box-shadow: 8px 8px 40px var(--darkerGreyishBlue);
+}
+
+.die-container:hover {
+  box-shadow: 1px 1px 20px var(--neonGreen);
+}
