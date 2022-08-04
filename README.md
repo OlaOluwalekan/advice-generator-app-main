@@ -38,7 +38,7 @@ The goal is for users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
-### Screenshots
+### Screenshot
 
 Below are the screen shots of the result after completing the project
 
